@@ -12,3 +12,4 @@ Arduino Nano|MODUL1|1|no remark
 Power manage modul|MODUL2|1|MH-CD42 You can buy it on Aliexpress
 HPDL1414|D1~D4|1|no remark
 Senser|JP2|1|B-LUX-V30B Also you can buy on Aliexpress
+Battery|JP1|1|Any Li-ion battery which can install in shell
