@@ -9,6 +9,8 @@ LMG2MV_BOM.xlsx 对照采购原件，尤其注意type-c封装
 
 安装luattool v2，下载库中的LuatOS-SoC_V0007_AIR103.soc和main.lua
 
+调节旋钮，使液晶屏字符清晰，最好用陶瓷螺丝刀，小心短路
+
 ## 如何使用
 ![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/F.jpg)
 
