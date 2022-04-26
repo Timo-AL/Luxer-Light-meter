@@ -1,7 +1,7 @@
 # Lux-Light-meter
 A light meter designed for taking photo（用于摄影的测光表）
 
-##如何使用
+## 如何使用
 ![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/F.jpg)
 
 B1 电源开关
@@ -27,12 +27,12 @@ D6 光圈
 D7 曝光补偿，设置感光度时该位置显示低感值
 
 
-##下载固件
+## 下载固件
 
 ![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/B.jpg)
 
 按如图所示线序与CH340串口模块连接，TX和RX需要交叉，不连接VCC
 
-![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/D.jpg)
+![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/D.png)
 
 按如图所示方法下载固件，开始下载后打开打开测光表电源
