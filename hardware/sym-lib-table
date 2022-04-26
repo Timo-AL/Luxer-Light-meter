@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "AIR103")(type "KiCad")(uri "${KIPRJMOD}/SY/AIR103.kicad_sym")(options "")(descr ""))
+  (lib (name "BCD8421")(type "KiCad")(uri "${KIPRJMOD}/SY/BCD8421.kicad_sym")(options "")(descr ""))
+  (lib (name "BH1620FVC")(type "Legacy")(uri "${KIPRJMOD}/SY/BH1620FVC.lib")(options "")(descr ""))
+  (lib (name "XKB7070")(type "Legacy")(uri "${KIPRJMOD}/SY/XKB7070.lib")(options "")(descr ""))
+)
