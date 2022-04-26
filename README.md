@@ -1,6 +1,14 @@
 # Lux-Light-meter
 A light meter designed for taking photo（用于摄影的测光表）
 
+## 如何制作
+
+LMG2MB_gerber文件夹里面的zip去找板厂下单，建议嘉立创哑光黑阻焊，减少反光影响
+
+LMG2MV_BOM.xlsx 对照采购原件，尤其注意type-c封装
+
+安装luattool v2，下载库中的LuatOS-SoC_V0007_AIR103.soc和main.lua
+
 ## 如何使用
 ![avatar](https://github.com/Timo-AL/Luxer-Light-meter/raw/master/picture/F.jpg)
 
