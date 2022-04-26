@@ -7,6 +7,8 @@ LMG2MB_gerber文件夹里面的zip去找板厂下单，建议嘉立创哑光黑�
 
 LMG2MV_BOM.xlsx 对照采购原件，尤其注意type-c封装
 
+R11限流电阻根据情况使用，我用的VA 3.3V的1602，选的0欧
+
 安装luattool v2，下载库中的LuatOS-SoC_V0007_AIR103.soc和main.lua
 
 调节旋钮，使液晶屏字符清晰，最好用陶瓷螺丝刀，小心短路
